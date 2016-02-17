@@ -1,3 +1,3 @@
 __author__ = 'neetujoshi'
 
-print "deploy QA : success"
+print "deploy code to QA : success"
